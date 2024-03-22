@@ -7,7 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&show_icons=true&locale=en&layout=compact&theme=react">
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Linguagens:
 
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

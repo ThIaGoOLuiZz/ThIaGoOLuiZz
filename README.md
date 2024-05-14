@@ -7,8 +7,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&show_icons=true&locale=en&layout=compact&theme=react">
 </div><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThIaGoOLuiZz&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Linguagens:
 
 <div style="display: inline_block" align="center">
@@ -20,7 +18,3 @@
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/><br/>
-
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThIaGoOLuiZz}/count.svg" /></p> 
-<br></div>

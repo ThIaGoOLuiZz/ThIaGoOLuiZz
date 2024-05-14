@@ -1,11 +1,13 @@
-<h1 align="center">Olá! Eu sou o Thiago 🖐️</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Thiago!;Desenvolvedor+Backend!;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">Bem-vindo ao meu GitHub! Aqui você encontrará projetos e contribuições que faço durante meu dia a dia.</h3><br>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThIaGoOLuiZz&show_icons=true&theme=react&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&show_icons=true&locale=en&layout=compact&theme=react">
-</div>
+</div><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThIaGoOLuiZz&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Linguagens:
 
@@ -19,4 +21,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/><br/>
 
-![snake gif](https://github.com/ThIaGoOLuiZz/ThIaGoOLuiZz/blob/output/github-contribution-grid-snake.gif)
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThIaGoOLuiZz}/count.svg" /></p> 
+<br></div>

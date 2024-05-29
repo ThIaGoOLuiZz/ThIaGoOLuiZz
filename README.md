@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Thiago!;Desenvolvedor+Backend!;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+Name+is+Thiago!;I'm+a+Backend+Developer!;Welcome+to+my+Github+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">Bem-vindo ao meu GitHub! Aqui você encontrará projetos e contribuições que faço durante meu dia a dia.</h3><br>
+<h3 align="center">Here you will find projects and contributions that I make during my daily life. </h3><br>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThIaGoOLuiZz&show_icons=true&theme=react&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&show_icons=true&locale=en&layout=compact&theme=react">
 </div>
 
-## Linguagens:
+## Languages:
 
 <div align="center">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

@@ -19,12 +19,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-<div align="center">
-    <p align="center"><hr>
-      <img width="900" height="220" src="https://streak-stats.demolab.com?user=ThIaGoOLuiZz&theme=react&hide_border=true&border_radius=5&card_width=800">
-    </p>
-</div>
-
 
 
 

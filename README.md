@@ -3,8 +3,8 @@
 <h3 align="center">Here you will find projects and contributions that I make during my daily life.</h3><br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThIaGoOLuiZz&show_icons=true&theme=react&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&show_icons=true&locale=en&layout=compact&theme=react">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThIaGoOLuiZz&show_icons=true&theme=react&count_private=true&exclude_repo=Python_AI-Agents"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThIaGoOLuiZz&layout=compact&theme=react&exclude_repo=Python_AI-Agents"/>
 </div>
 
 ## Languages:     

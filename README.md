@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ThIaGoOLuiZz&show_icons=true&theme=react&count_private=true&exclude_repo=Python_AI-Agents"/>
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ThIaGoOLuiZz&layout=compact&theme=react&exclude_repo=Python_AI-Agents,CRUD_ColdigoGeladeiras"/>
 </div>
-<br>
+<br> 
 
 ```json
 {
